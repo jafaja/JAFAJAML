@@ -7,3 +7,7 @@ Reports including Python code are included.
 Business Presentation can be accessed in Canva https://canva.link/3pa87olub3qra5h
 Technical Presentation can be accessed in Canva https://canva.link/g13a5sbixx79fm3
 
+[Fajardo_Capstone_KMeans.pdf](https://github.com/user-attachments/files/33299993/Fajardo_Capstone_KMeans.pdf)
+[Fajardo_John_Capstone_Clustering.pdf](https://github.com/user-attachments/files/33299983/Fajardo_John_Capstone_Clustering.pdf)
+[Fajardo_John_Capstone_Clustering_PCA.pdf](https://github.com/user-attachments/files/33299971/Fajardo_John_Capstone_Clustering_PCA.pdf)
+[John_Fajardo_Capstone.pdf](https://github.com/user-attachments/files/33299967/John_Fajardo_Capstone.pdf)
